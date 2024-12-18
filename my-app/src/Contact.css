@@ -1,0 +1,56 @@
+/* Contact Page Styles
+
+ .container {
+    font-family: 'Arial', sans-serif;
+    background: url('https://example.com/background-image.jpg') no-repeat center center;
+    background-size: cover;
+    color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  } 
+  
+  #g1 {
+    color: #9c07f3; 
+    font-family: 'Roboto', sans-serif;
+  }
+  h4 {
+    color: #ed24b1; 
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .form-label1 {
+    color: #ff5722;
+  }
+  
+  .form-control {
+    border: 2px solid #ff5722;
+  }
+  
+  .btn-primary1 {
+    background-color: #04f724;
+    border: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-primary:hover1 {
+    background-color: #04f724;
+  }
+  
+  .icon {
+    color: #05b0ff;
+    margin-right: 10px;
+  }
+  
+  p {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .about-section {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+   */
